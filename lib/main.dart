@@ -4,7 +4,6 @@ import 'package:netflix_clone_/screens/nav_screen.dart';
 void main() {
   runApp(MyApp());
 }
-
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
